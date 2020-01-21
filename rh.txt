@@ -114,7 +114,7 @@ tuspy==0.2.4
 ua-parser==0.7.3
 unicodecsv==0.14.1
 Unidecode==0.4.19
-urllib3==1.24.1
+urllib3==1.24.2
 user-agents==1.1.0
 vine==1.1.4
 wcwidth==0.1.7
