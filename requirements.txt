@@ -11,7 +11,7 @@ django-appconf==1.0.2
 django-autoslug==1.9.6
 django-bootstrap3-datetimepicker-2==2.8.2
 django-celery-beat==1.5.0
-django-celery-results==1.1.2
+django-celery-results==2.4.0
 django-configurations==2.2
 django-debug-toolbar==1.9.1
 django-easy-select2==1.5.6
